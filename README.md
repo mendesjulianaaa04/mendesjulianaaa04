@@ -1,3 +1,4 @@
+# Sobre mim
 - :sparkles: Oi, meu nome é Juliana 
 - :sparkles: Eu estou aprendendo atualmente a programar jogos no Scratch e em JavaScript
 - :sparkles: Eu tenho curiosidades em aprender a programar paginas na web
